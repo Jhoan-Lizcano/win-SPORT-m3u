@@ -1,3 +1,22 @@
 #EXTM3U
 #EXTINF:-1 group-title="COLOMBIA", Win
 https://d21gtq1mno4siw.cloudfront.net/out/v1/c7889d78bfa643dc9079c46c81be4b6d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | Caracol" tvg-logo="" group-title="",COLOMBIA | Caracol
+http://soberon.us:25461/monkeyn/Mon/62
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | RCN" tvg-logo="" group-title="",COLOMBIA | RCN
+http://soberon.us:25461/monkeyn/Mon/140
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | NTN24" tvg-logo="" group-title="",COLOMBIA | NTN24
+http://soberon.us:25461/monkeyn/Mon/517
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | CARACOL INTERNACIONAL" tvg-logo="" group-title="",COLOMBIA | CARACOL INTERNACIONAL
+http://soberon.us:25461/monkeyn/Mon/523
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | CITY TV" tvg-logo="" group-title="",COLOMBIA | CITY TV
+http://soberon.us:25461/monkeyn/Mon/524
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | CANAL 12" tvg-logo="" group-title="",COLOMBIA | CANAL 12
+http://soberon.us:25461/monkeyn/Mon/525
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | TELEANTIOQUIA" tvg-logo="" group-title="",COLOMBIA | TELEANTIOQUIA
+http://soberon.us:25461/monkeyn/Mon/528
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | TELECARIBE" tvg-logo="" group-title="",COLOMBIA | TELECARIBE
+http://soberon.us:25461/monkeyn/Mon/530
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | TELEMEDELLIN" tvg-logo="" group-title="",COLOMBIA | TELEMEDELLIN
+http://soberon.us:25461/monkeyn/Mon/532
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | WINSPORTS PLUS" tvg-logo="" group-title="",COLOMBIA | WINSPORTS PLUS
